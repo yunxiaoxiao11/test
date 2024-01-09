@@ -1,0 +1,15 @@
+map w scrollPxUp
+map s scrollPxDown
+unmap u
+map e scrollPageUp
+map E scrollFullPageUp
+map D scrollFullPageDown
+unmap <a-r>
+map R reloadTab
+map yt copyCurrentUrl
+map yy duplicateTab
+map z Vomnibar.activateHistory
+map Z Vomnibar.activateHistoryInNewTab
+unmap gt
+unmap gT
+map q LinkHints.activateHover
